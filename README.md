@@ -27,7 +27,7 @@ Bienvenue dans **Gestionnaire de Périphériques Externes** ! Une application Py
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/H4CK3R854/DiskGuard-Manager/
+   git clone https://github.com/H4CK3R854/DiskGuard-Manager/](https://github.com/H4CK3R854/DiskGuard-Manager.git
    ```
 2. Créez et activez un environnement virtuel (optionnel) :
 
