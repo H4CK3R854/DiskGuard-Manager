@@ -1,3 +1,5 @@
+# Ce readme n'est pas a jour
+
 # 📦 Gestionnaire de Périphériques Externes
 
 Bienvenue dans **Gestionnaire de Périphériques Externes** ! Une application Python/Tkinter stylée Windows Vista/11 pour scanner, formater et gérer vos clés USB et cartes SD en toute simplicité. 🎉
